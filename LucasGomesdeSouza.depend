@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1712529201 source:c:\users\windows 10 pro\desktop\lucasgomesdesouza\lucasgomesdesouza\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	"tad.h"
+
+1712526870 c:\users\windows 10 pro\desktop\lucasgomesdesouza\lucasgomesdesouza\tad.h
+
+1712529286 source:c:\users\windows 10 pro\desktop\lucasgomesdesouza\lucasgomesdesouza\tad.c
+	"tad.h"
+
